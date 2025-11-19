@@ -1,7 +1,7 @@
 // Write a program which accept name from user and print that name.
 
-// Input : Akshay Rajale  
-// Output : Akshay Rajale 
+// Input : Pruthviraj tuwar 
+// Output : Pruthviraj tuwar 
 
 #include<stdio.h>
 int main()
@@ -15,7 +15,7 @@ int main()
 
 /////////////////////////////////////////////
 //
-// Please enter full name: Akshay Rajale
-// Your name is Akshay Rajale
+// Please enter full name: Pruthviraj tuwar 
+// Your name is Pruthviraj tuwar 
 //
 /////////////////////////////////////////////
